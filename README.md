@@ -32,8 +32,8 @@ This project enables intelligent querying of PDF documents using a **Retrieval-A
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** ReactJS
-- **Backend:** Node.js, Express
+- **Frontend:** Streamlit
+- **Backend:** Python
 - **LLMs:** GPT-4.1-nano, Gemma 3
 - **Embeddings:** OpenAI, Chroma, Nomic
 - **Vector Store:** Integrated vector database (e.g., ChromaDB or FAISS)
